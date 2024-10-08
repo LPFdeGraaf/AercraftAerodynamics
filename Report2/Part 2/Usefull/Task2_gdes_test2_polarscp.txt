@@ -1,0 +1,15 @@
+  # The first line is for the GDES airfoil the second for the inv7 one
+       XFOIL         Version 6.99
+  
+ Calculated polar for: gdes_test2                                      
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.000     Re =     0.700 e 6     Ncrit =  12.000 12.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr  Top_Itr  Bot_Itr
+  ------ -------- --------- --------- -------- -------- -------- -------- --------
+   0.171   0.4000   0.00638   0.00175  -0.1058   0.9036   0.7110   8.6441 141.0373
+   0.634   0.4000   0.00594   0.00139  -0.0942   0.8705   0.7337  10.6020 142.5820
+   0.634   0.4000   0.00594   0.00139  -0.0942   0.8705   0.7337  10.6012 142.5820

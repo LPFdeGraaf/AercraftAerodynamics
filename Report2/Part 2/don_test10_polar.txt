@@ -1,0 +1,14 @@
+  
+       XFOIL         Version 6.99
+  
+ Calculated polar for: don_test10.txt                                  
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.000     Re =     0.700 e 6     Ncrit =  12.000 12.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr  Top_Itr  Bot_Itr
+  ------ -------- --------- --------- -------- -------- -------- -------- --------
+   0.493   0.4000   0.00612   0.00147  -0.0990   0.8930   0.6919   9.2157 144.7777
+   0.130   0.4000   0.00649   0.00169  -0.1039   0.8987   0.6592   8.8651 138.9802

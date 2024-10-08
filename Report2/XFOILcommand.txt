@@ -1,0 +1,23 @@
+Voor deze opdracht
+
+load MyAirfoil.dat
+pane
+ppar // om het te zien 
+
+oper
+
+visc
+Re aanpassen
+
+
+vpar
+N = 12
+
+iter // op 100 zetten
+
+pacc Polars.dat
+
+aseq -2 8 0.5
+
+
+
